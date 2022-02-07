@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Workeeb-rescue)(type Legacy)(uri ${KIPRJMOD}/Workeeb-rescue.lib)(options "")(descr ""))
+  (lib (name MX_Alps_Hybrid)(type Legacy)(uri "C:/Users/gabek/code/workeeb/MX_Alps_Hybrid/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+)
